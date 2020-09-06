@@ -8,3 +8,4 @@ print("fetch2")
 
 print("change base")
 print("exp2--untrack")
+print("git-test2")
