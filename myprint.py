@@ -7,7 +7,7 @@ print("diff1")
 print("fetch2")
 
 print("change base")
-print("exp2")
+print("exp2--mergestash")
 print("modify by git-test2")
-print("add by git-test2")
+print("add by git-test22")
 
